@@ -8,3 +8,4 @@
 - https://thesai.org/Downloads/Volume15No3/Paper_5-Generative_Adversarial_Neural_Networks.pdf
 - https://www.sciencedirect.com/science/article/pii/S0957417423017062#sec3
 - https://github.com/patrickloeber/pytorch-examples
+- https://www.youtube.com/watch?v=4wuIOcD1LLI
