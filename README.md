@@ -9,3 +9,4 @@
 - https://www.sciencedirect.com/science/article/pii/S0957417423017062#sec3
 - https://github.com/patrickloeber/pytorch-examples
 - https://www.youtube.com/watch?v=4wuIOcD1LLI
+- https://medium.com/@CallMeTwitch/building-a-neural-network-zoo-from-scratch-the-long-short-term-memory-network-1cec5cf31b7
