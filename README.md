@@ -10,3 +10,4 @@
 - https://github.com/patrickloeber/pytorch-examples
 - https://www.youtube.com/watch?v=4wuIOcD1LLI
 - https://medium.com/@CallMeTwitch/building-a-neural-network-zoo-from-scratch-the-long-short-term-memory-network-1cec5cf31b7
+- https://www.kaggle.com/code/navjindervirdee/lstm-neural-network-from-scratch
