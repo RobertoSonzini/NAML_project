@@ -11,3 +11,4 @@
 - https://www.youtube.com/watch?v=4wuIOcD1LLI
 - https://medium.com/@CallMeTwitch/building-a-neural-network-zoo-from-scratch-the-long-short-term-memory-network-1cec5cf31b7
 - https://www.kaggle.com/code/navjindervirdee/lstm-neural-network-from-scratch
+- https://www.quarkml.com/2023/08/backpropagation-through-time-explained-with-derivations.html
