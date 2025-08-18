@@ -12,3 +12,4 @@
 - https://medium.com/@CallMeTwitch/building-a-neural-network-zoo-from-scratch-the-long-short-term-memory-network-1cec5cf31b7
 - https://www.kaggle.com/code/navjindervirdee/lstm-neural-network-from-scratch
 - https://www.quarkml.com/2023/08/backpropagation-through-time-explained-with-derivations.html
+- http://alvarestech.com/temp/deep/Deep%20Learning%20by%20Ian%20Goodfellow,%20Yoshua%20Bengio,%20Aaron%20Courville%20(z-lib.org).pdf
